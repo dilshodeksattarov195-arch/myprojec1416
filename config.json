@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsalidate",
+        "uuid": 11708904,
+        "checksum": "04yh5r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
